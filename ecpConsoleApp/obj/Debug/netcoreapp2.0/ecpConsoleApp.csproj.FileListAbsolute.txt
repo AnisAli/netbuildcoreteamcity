@@ -1,0 +1,10 @@
+C:\Dev\ecpConsoleApp\ecpConsoleApp\bin\Debug\netcoreapp2.0\ecpConsoleApp.deps.json
+C:\Dev\ecpConsoleApp\ecpConsoleApp\bin\Debug\netcoreapp2.0\ecpConsoleApp.runtimeconfig.json
+C:\Dev\ecpConsoleApp\ecpConsoleApp\bin\Debug\netcoreapp2.0\ecpConsoleApp.runtimeconfig.dev.json
+C:\Dev\ecpConsoleApp\ecpConsoleApp\bin\Debug\netcoreapp2.0\ecpConsoleApp.dll
+C:\Dev\ecpConsoleApp\ecpConsoleApp\bin\Debug\netcoreapp2.0\ecpConsoleApp.pdb
+C:\Dev\ecpConsoleApp\ecpConsoleApp\obj\Debug\netcoreapp2.0\ecpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dev\ecpConsoleApp\ecpConsoleApp\obj\Debug\netcoreapp2.0\ecpConsoleApp.AssemblyInfoInputs.cache
+C:\Dev\ecpConsoleApp\ecpConsoleApp\obj\Debug\netcoreapp2.0\ecpConsoleApp.AssemblyInfo.cs
+C:\Dev\ecpConsoleApp\ecpConsoleApp\obj\Debug\netcoreapp2.0\ecpConsoleApp.dll
+C:\Dev\ecpConsoleApp\ecpConsoleApp\obj\Debug\netcoreapp2.0\ecpConsoleApp.pdb

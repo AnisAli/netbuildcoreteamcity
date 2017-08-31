@@ -1,0 +1,16 @@
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\ecpConsoleApp.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\bin\Debug\netcoreapp2.0\ecpConsoleApp.pdb
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Dev\ecpConsoleApp\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb
